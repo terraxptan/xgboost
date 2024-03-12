@@ -259,7 +259,7 @@ Then add XGBoost4J as a dependency:
 
   <properties>
     ...
-    <!-- Specify Scala version in package name -->
+    <!-- Specify Scala version in package name Marglin-->
     <scala.binary.version>2.12</scala.binary.version>
   </properties>
 
